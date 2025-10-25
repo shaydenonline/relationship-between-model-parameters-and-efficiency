@@ -1,0 +1,124 @@
+{
+    "global-avgpool": {
+        "06APFJ": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/global-avgpool_test_06APFJ",
+            "shapes": [
+                [
+                    3,
+                    3,
+                    32
+                ]
+            ],
+            "config": {
+                "HW": 3,
+                "CIN": 32
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/global-avgpool_test_06APFJ.tflite"
+        },
+        "T6T5F2": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/global-avgpool_test_T6T5F2",
+            "shapes": [
+                [
+                    3,
+                    3,
+                    25
+                ]
+            ],
+            "config": {
+                "HW": 3,
+                "CIN": 25
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/global-avgpool_test_T6T5F2.tflite"
+        },
+        "YLAAG1": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/global-avgpool_test_YLAAG1",
+            "shapes": [
+                [
+                    3,
+                    3,
+                    794
+                ]
+            ],
+            "config": {
+                "HW": 3,
+                "CIN": 794
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/global-avgpool_test_YLAAG1.tflite"
+        },
+        "CU1UTN": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/global-avgpool_test_CU1UTN",
+            "shapes": [
+                [
+                    3,
+                    3,
+                    37
+                ]
+            ],
+            "config": {
+                "HW": 3,
+                "CIN": 37
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/global-avgpool_test_CU1UTN.tflite"
+        },
+        "EM71AI": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/global-avgpool_test_EM71AI",
+            "shapes": [
+                [
+                    3,
+                    3,
+                    48
+                ]
+            ],
+            "config": {
+                "HW": 3,
+                "CIN": 48
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/global-avgpool_test_EM71AI.tflite"
+        },
+        "UGMIM5": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/global-avgpool_test_UGMIM5",
+            "shapes": [
+                [
+                    3,
+                    3,
+                    1257
+                ]
+            ],
+            "config": {
+                "HW": 3,
+                "CIN": 1257
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/global-avgpool_test_UGMIM5.tflite"
+        },
+        "CSAZXD": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/global-avgpool_test_CSAZXD",
+            "shapes": [
+                [
+                    7,
+                    7,
+                    129
+                ]
+            ],
+            "config": {
+                "HW": 7,
+                "CIN": 129
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/global-avgpool_test_CSAZXD.tflite"
+        },
+        "2OHIPH": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/global-avgpool_test_2OHIPH",
+            "shapes": [
+                [
+                    7,
+                    7,
+                    1266
+                ]
+            ],
+            "config": {
+                "HW": 7,
+                "CIN": 1266
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/global-avgpool_test_2OHIPH.tflite"
+        }
+    }
+}

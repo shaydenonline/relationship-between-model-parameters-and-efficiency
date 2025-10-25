@@ -1,0 +1,46 @@
+{
+    "channelshuffle": {
+        "BJ4HSS": {
+            "latency": "0.001"
+        },
+        "AVM589": {
+            "latency": "24.08"
+        },
+        "2CR2C7": {
+            "latency": "0.009"
+        },
+        "KBMDVW": {
+            "latency": "0.024"
+        },
+        "1LG6N8": {
+            "latency": "0.001"
+        },
+        "N4CE30": {
+            "latency": "0.002"
+        },
+        "T9YODT": {
+            "latency": "0.003"
+        },
+        "0N1MBT": {
+            "latency": "0.012"
+        },
+        "P1HMHA": {
+            "latency": "0.523"
+        },
+        "GHEE6G": {
+            "latency": "0.014"
+        },
+        "IVAB27": {
+            "latency": "0.429"
+        },
+        "D3CYAN": {
+            "latency": "38.896"
+        },
+        "DQW7FI": {
+            "latency": "0.002"
+        },
+        "R53SOM": {
+            "latency": "0.038"
+        }
+    }
+}

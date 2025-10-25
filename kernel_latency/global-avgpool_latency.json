@@ -1,0 +1,28 @@
+{
+    "global-avgpool": {
+        "UGMIM5": {
+            "latency": "0.22"
+        },
+        "CSAZXD": {
+            "latency": "0.123"
+        },
+        "EM71AI": {
+            "latency": "0.015"
+        },
+        "06APFJ": {
+            "latency": "0.017"
+        },
+        "T6T5F2": {
+            "latency": "0.014"
+        },
+        "CU1UTN": {
+            "latency": "0.011"
+        },
+        "YLAAG1": {
+            "latency": "0.14"
+        },
+        "2OHIPH": {
+            "latency": "1.194"
+        }
+    }
+}

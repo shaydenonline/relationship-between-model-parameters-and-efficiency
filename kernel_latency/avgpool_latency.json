@@ -1,0 +1,88 @@
+{
+    "avgpool": {
+        "1ZBQND": {
+            "latency": "0.671"
+        },
+        "TKX4HD": {
+            "latency": "0.227"
+        },
+        "C8H2U3": {
+            "latency": "0.317"
+        },
+        "933P3I": {
+            "latency": "1.159"
+        },
+        "EDXIAI": {
+            "latency": "1.489"
+        },
+        "JAQG56": {
+            "latency": "1.416"
+        },
+        "HPX59V": {
+            "latency": "1.247"
+        },
+        "C3WLC6": {
+            "latency": "0.525"
+        },
+        "YLB62X": {
+            "latency": "0.241"
+        },
+        "6Y890A": {
+            "latency": "3.309"
+        },
+        "K2RCGR": {
+            "latency": "0.062"
+        },
+        "99IEVR": {
+            "latency": "0.529"
+        },
+        "KMVFT8": {
+            "latency": "0.32"
+        },
+        "1K59KR": {
+            "latency": "0.699"
+        },
+        "KO2Q06": {
+            "latency": "0.383"
+        },
+        "DN1KQ4": {
+            "latency": "0.112"
+        },
+        "V5E1H7": {
+            "latency": "0.225"
+        },
+        "0VIZN6": {
+            "latency": "0.069"
+        },
+        "H7QF9J": {
+            "latency": "0.685"
+        },
+        "1GPJ5J": {
+            "latency": "0.125"
+        },
+        "O2QE44": {
+            "latency": "0.113"
+        },
+        "B9EVZK": {
+            "latency": "0.178"
+        },
+        "NL7VH2": {
+            "latency": "0.14"
+        },
+        "P2LHB3": {
+            "latency": "0.115"
+        },
+        "H132A1": {
+            "latency": "0.402"
+        },
+        "XTXDO7": {
+            "latency": "0.298"
+        },
+        "7AFGL1": {
+            "latency": "0.599"
+        },
+        "GE14UD": {
+            "latency": "0.311"
+        }
+    }
+}

@@ -1,0 +1,304 @@
+{
+    "bnrelu": {
+        "FDQKC5": {
+            "latency": "0.01"
+        },
+        "V2L6IY": {
+            "latency": "1.196"
+        },
+        "KMR3KQ": {
+            "latency": "2.8179999999999996"
+        },
+        "7BSFOY": {
+            "latency": "0.015"
+        },
+        "80FHNA": {
+            "latency": "0.005"
+        },
+        "IR09WH": {
+            "latency": "0.011"
+        },
+        "WVLQ67": {
+            "latency": "1.946"
+        },
+        "Z8IQML": {
+            "latency": "2.795"
+        },
+        "X7217T": {
+            "latency": "0.044"
+        },
+        "NU4AN2": {
+            "latency": "1.3290000000000002"
+        },
+        "16D9WK": {
+            "latency": "0.026"
+        },
+        "8AJUCG": {
+            "latency": "7.599"
+        },
+        "QL3N3J": {
+            "latency": "0.091"
+        },
+        "H17MW3": {
+            "latency": "0.019"
+        },
+        "1ET1CC": {
+            "latency": "0.018000000000000002"
+        },
+        "2YOODG": {
+            "latency": "0.112"
+        },
+        "BLXWDT": {
+            "latency": "0.194"
+        },
+        "WRCF30": {
+            "latency": "0.665"
+        },
+        "QULJBL": {
+            "latency": "0.139"
+        },
+        "512GEX": {
+            "latency": "11.897"
+        },
+        "F88WWG": {
+            "latency": "11.690000000000001"
+        },
+        "K4BSN8": {
+            "latency": "0.06"
+        },
+        "N9YDDZ": {
+            "latency": "0.003"
+        },
+        "9OSO3Q": {
+            "latency": "2.8659999999999997"
+        },
+        "G38DKP": {
+            "latency": "0.266"
+        },
+        "AEVC37": {
+            "latency": "0.445"
+        },
+        "KNSDJG": {
+            "latency": "0.161"
+        },
+        "1PVASC": {
+            "latency": "0.027"
+        },
+        "XZ93OF": {
+            "latency": "0.005"
+        },
+        "SQG333": {
+            "latency": "0.037"
+        },
+        "TBRFK2": {
+            "latency": "0.113"
+        },
+        "NPM367": {
+            "latency": "0.092"
+        },
+        "C1CRWA": {
+            "latency": "4.779999999999999"
+        },
+        "7T1V52": {
+            "latency": "1.198"
+        },
+        "B5VFMW": {
+            "latency": "0.022"
+        },
+        "RID6MM": {
+            "latency": "0.319"
+        },
+        "KGIB4L": {
+            "latency": "0.041"
+        },
+        "I151MX": {
+            "latency": "1.3610000000000002"
+        },
+        "H0NB6I": {
+            "latency": "2.907"
+        },
+        "X53Q0X": {
+            "latency": "2.0469999999999997"
+        },
+        "3JA98A": {
+            "latency": "0.006"
+        },
+        "P78QGZ": {
+            "latency": "1.112"
+        },
+        "H4ENCX": {
+            "latency": "10.957999999999998"
+        },
+        "K1AQCI": {
+            "latency": "1.354"
+        },
+        "6VTATK": {
+            "latency": "0.035"
+        },
+        "UQF438": {
+            "latency": "0.20500000000000002"
+        },
+        "N69XSZ": {
+            "latency": "0.053"
+        },
+        "PXT8AP": {
+            "latency": "4.682"
+        },
+        "PF9D50": {
+            "latency": "0.019999999999999997"
+        },
+        "B2NHQL": {
+            "latency": "0.76"
+        },
+        "3VLE8X": {
+            "latency": "0.045"
+        },
+        "L5GUX2": {
+            "latency": "5.647"
+        },
+        "HO6DWG": {
+            "latency": "0.093"
+        },
+        "KOW6TT": {
+            "latency": "0.706"
+        },
+        "U2HL3N": {
+            "latency": "0.006"
+        },
+        "DA2GA6": {
+            "latency": "0.509"
+        },
+        "5NKIFE": {
+            "latency": "0.208"
+        },
+        "OIVSJK": {
+            "latency": "12.312999999999999"
+        },
+        "MO3RKA": {
+            "latency": "0.864"
+        },
+        "KX9PLQ": {
+            "latency": "0.062"
+        },
+        "Q96UZE": {
+            "latency": "0.086"
+        },
+        "83989X": {
+            "latency": "4.754"
+        },
+        "34WXCC": {
+            "latency": "18.525"
+        },
+        "5QBU1L": {
+            "latency": "3.186"
+        },
+        "LTJJ0B": {
+            "latency": "27.415"
+        },
+        "F9ZX3Q": {
+            "latency": "0.055"
+        },
+        "5JXY44": {
+            "latency": "0.059"
+        },
+        "2M19GJ": {
+            "latency": "0.047"
+        },
+        "G45B5G": {
+            "latency": "18.393"
+        },
+        "E58AJO": {
+            "latency": "0.003"
+        },
+        "564KMK": {
+            "latency": "1.7650000000000001"
+        },
+        "7CFP3Q": {
+            "latency": "1.92"
+        },
+        "SNM7AR": {
+            "latency": "0.113"
+        },
+        "5NTZ29": {
+            "latency": "41.943"
+        },
+        "87RXFQ": {
+            "latency": "0.028999999999999998"
+        },
+        "EUSJ7G": {
+            "latency": "0.07100000000000001"
+        },
+        "1UPIV1": {
+            "latency": "47.043"
+        },
+        "0YN2I8": {
+            "latency": "2.407"
+        },
+        "PZZ2BY": {
+            "latency": "0.005"
+        },
+        "46SCUJ": {
+            "latency": "0.356"
+        },
+        "72E5LU": {
+            "latency": "1.766"
+        },
+        "KI9H7O": {
+            "latency": "2.409"
+        },
+        "Z2HYXS": {
+            "latency": "0.196"
+        },
+        "6B5ZSO": {
+            "latency": "44.532"
+        },
+        "I6Q6GX": {
+            "latency": "4.793"
+        },
+        "6XD7UQ": {
+            "latency": "0.264"
+        },
+        "Z49XGV": {
+            "latency": "0.278"
+        },
+        "8Q3U8M": {
+            "latency": "0.05"
+        },
+        "PUNDVJ": {
+            "latency": "0.077"
+        },
+        "9WO4UN": {
+            "latency": "0.037000000000000005"
+        },
+        "AY8IND": {
+            "latency": "11.398"
+        },
+        "2TD77S": {
+            "latency": "0.039"
+        },
+        "AH3ALR": {
+            "latency": "0.704"
+        },
+        "3TW42C": {
+            "latency": "0.282"
+        },
+        "M246ZN": {
+            "latency": "4.7330000000000005"
+        },
+        "5CCDVZ": {
+            "latency": "0.018000000000000002"
+        },
+        "X6MDDV": {
+            "latency": "0.027"
+        },
+        "FAZCW1": {
+            "latency": "0.007"
+        },
+        "QQWTTJ": {
+            "latency": "0.665"
+        },
+        "JNGZZF": {
+            "latency": "0.005"
+        }
+    }
+}

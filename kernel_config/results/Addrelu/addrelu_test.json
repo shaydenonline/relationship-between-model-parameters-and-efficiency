@@ -1,0 +1,214 @@
+{
+    "addrelu": {
+        "N0UCHA": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/addrelu_test_N0UCHA",
+            "shapes": [
+                [
+                    28,
+                    28,
+                    2122
+                ]
+            ],
+            "config": {
+                "HW": 28,
+                "CIN": 2122
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/addrelu_test_N0UCHA.tflite"
+        },
+        "PC3SCI": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/addrelu_test_PC3SCI",
+            "shapes": [
+                [
+                    14,
+                    14,
+                    30
+                ]
+            ],
+            "config": {
+                "HW": 14,
+                "CIN": 30
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/addrelu_test_PC3SCI.tflite"
+        },
+        "BEL03H": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/addrelu_test_BEL03H",
+            "shapes": [
+                [
+                    224,
+                    224,
+                    1278
+                ]
+            ],
+            "config": {
+                "HW": 224,
+                "CIN": 1278
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/addrelu_test_BEL03H.tflite"
+        },
+        "NILLWW": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/addrelu_test_NILLWW",
+            "shapes": [
+                [
+                    56,
+                    56,
+                    16
+                ]
+            ],
+            "config": {
+                "HW": 56,
+                "CIN": 16
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/addrelu_test_NILLWW.tflite"
+        },
+        "MV6QJ4": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/addrelu_test_MV6QJ4",
+            "shapes": [
+                [
+                    56,
+                    56,
+                    2152
+                ]
+            ],
+            "config": {
+                "HW": 56,
+                "CIN": 2152
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/addrelu_test_MV6QJ4.tflite"
+        },
+        "NGTJ8M": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/addrelu_test_NGTJ8M",
+            "shapes": [
+                [
+                    3,
+                    3,
+                    151
+                ]
+            ],
+            "config": {
+                "HW": 3,
+                "CIN": 151
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/addrelu_test_NGTJ8M.tflite"
+        },
+        "P9S5QN": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/addrelu_test_P9S5QN",
+            "shapes": [
+                [
+                    56,
+                    56,
+                    105
+                ]
+            ],
+            "config": {
+                "HW": 56,
+                "CIN": 105
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/addrelu_test_P9S5QN.tflite"
+        },
+        "58V869": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/addrelu_test_58V869",
+            "shapes": [
+                [
+                    28,
+                    28,
+                    11
+                ]
+            ],
+            "config": {
+                "HW": 28,
+                "CIN": 11
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/addrelu_test_58V869.tflite"
+        },
+        "WGL7A0": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/addrelu_test_WGL7A0",
+            "shapes": [
+                [
+                    56,
+                    56,
+                    33
+                ]
+            ],
+            "config": {
+                "HW": 56,
+                "CIN": 33
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/addrelu_test_WGL7A0.tflite"
+        },
+        "8FOB9I": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/addrelu_test_8FOB9I",
+            "shapes": [
+                [
+                    224,
+                    224,
+                    35
+                ]
+            ],
+            "config": {
+                "HW": 224,
+                "CIN": 35
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/addrelu_test_8FOB9I.tflite"
+        },
+        "T7Q7LN": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/addrelu_test_T7Q7LN",
+            "shapes": [
+                [
+                    1,
+                    1,
+                    103
+                ]
+            ],
+            "config": {
+                "HW": 1,
+                "CIN": 103
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/addrelu_test_T7Q7LN.tflite"
+        },
+        "CVYSEU": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/addrelu_test_CVYSEU",
+            "shapes": [
+                [
+                    112,
+                    112,
+                    98
+                ]
+            ],
+            "config": {
+                "HW": 112,
+                "CIN": 98
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/addrelu_test_CVYSEU.tflite"
+        },
+        "DO9JCT": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/addrelu_test_DO9JCT",
+            "shapes": [
+                [
+                    7,
+                    7,
+                    13
+                ]
+            ],
+            "config": {
+                "HW": 7,
+                "CIN": 13
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/addrelu_test_DO9JCT.tflite"
+        },
+        "MD02B9": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/addrelu_test_MD02B9",
+            "shapes": [
+                [
+                    56,
+                    56,
+                    7
+                ]
+            ],
+            "config": {
+                "HW": 56,
+                "CIN": 7
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/addrelu_test_MD02B9.tflite"
+        }
+    }
+}

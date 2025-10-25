@@ -1,0 +1,46 @@
+{
+    "addrelu": {
+        "BEL03H": {
+            "latency": "21.686"
+        },
+        "58V869": {
+            "latency": "0.005"
+        },
+        "N0UCHA": {
+            "latency": "0.553"
+        },
+        "P9S5QN": {
+            "latency": "0.098"
+        },
+        "DO9JCT": {
+            "latency": "0.002"
+        },
+        "NGTJ8M": {
+            "latency": "0.004"
+        },
+        "NILLWW": {
+            "latency": "0.041"
+        },
+        "PC3SCI": {
+            "latency": "0.007"
+        },
+        "WGL7A0": {
+            "latency": "0.086"
+        },
+        "MV6QJ4": {
+            "latency": "2.376"
+        },
+        "MD02B9": {
+            "latency": "0.014"
+        },
+        "CVYSEU": {
+            "latency": "0.413"
+        },
+        "T7Q7LN": {
+            "latency": "0.003"
+        },
+        "8FOB9I": {
+            "latency": "0.615"
+        }
+    }
+}

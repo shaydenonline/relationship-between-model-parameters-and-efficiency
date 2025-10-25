@@ -1,0 +1,166 @@
+{
+    "conv-bn-relu6": {
+        "AM19R3": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/conv-bn-relu6_test_AM19R3",
+            "shapes": [
+                [
+                    224,
+                    224,
+                    64
+                ]
+            ],
+            "config": {
+                "HW": 224,
+                "CIN": 64,
+                "COUT": 64,
+                "KERNEL_SIZE": 3,
+                "STRIDES": 1
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/conv-bn-relu6_test_AM19R3.tflite"
+        },
+        "67QC0P": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/conv-bn-relu6_test_67QC0P",
+            "shapes": [
+                [
+                    224,
+                    224,
+                    3
+                ]
+            ],
+            "config": {
+                "HW": 224,
+                "CIN": 3,
+                "COUT": 96,
+                "KERNEL_SIZE": 7,
+                "STRIDES": 2
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/conv-bn-relu6_test_67QC0P.tflite"
+        },
+        "ZYGTEX": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/conv-bn-relu6_test_ZYGTEX",
+            "shapes": [
+                [
+                    112,
+                    112,
+                    128
+                ]
+            ],
+            "config": {
+                "HW": 112,
+                "CIN": 128,
+                "COUT": 128,
+                "KERNEL_SIZE": 3,
+                "STRIDES": 1
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/conv-bn-relu6_test_ZYGTEX.tflite"
+        },
+        "9TCISD": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/conv-bn-relu6_test_9TCISD",
+            "shapes": [
+                [
+                    56,
+                    56,
+                    24
+                ]
+            ],
+            "config": {
+                "HW": 56,
+                "CIN": 24,
+                "COUT": 58,
+                "KERNEL_SIZE": 1,
+                "STRIDES": 1
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/conv-bn-relu6_test_9TCISD.tflite"
+        },
+        "MMMY91": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/conv-bn-relu6_test_MMMY91",
+            "shapes": [
+                [
+                    28,
+                    28,
+                    768
+                ]
+            ],
+            "config": {
+                "HW": 28,
+                "CIN": 768,
+                "COUT": 384,
+                "KERNEL_SIZE": 1,
+                "STRIDES": 1
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/conv-bn-relu6_test_MMMY91.tflite"
+        },
+        "LGOK5F": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/conv-bn-relu6_test_LGOK5F",
+            "shapes": [
+                [
+                    14,
+                    14,
+                    16
+                ]
+            ],
+            "config": {
+                "HW": 14,
+                "CIN": 16,
+                "COUT": 48,
+                "KERNEL_SIZE": 3,
+                "STRIDES": 1
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/conv-bn-relu6_test_LGOK5F.tflite"
+        },
+        "0TSL20": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/conv-bn-relu6_test_0TSL20",
+            "shapes": [
+                [
+                    7,
+                    7,
+                    2160
+                ]
+            ],
+            "config": {
+                "HW": 7,
+                "CIN": 2160,
+                "COUT": 192,
+                "KERNEL_SIZE": 1,
+                "STRIDES": 1
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/conv-bn-relu6_test_0TSL20.tflite"
+        },
+        "CNGDET": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/conv-bn-relu6_test_CNGDET",
+            "shapes": [
+                [
+                    1,
+                    1,
+                    1280
+                ]
+            ],
+            "config": {
+                "HW": 1,
+                "CIN": 1280,
+                "COUT": 1001,
+                "KERNEL_SIZE": 1,
+                "STRIDES": 1
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/conv-bn-relu6_test_CNGDET.tflite"
+        },
+        "YP4V8G": {
+            "model": "/home/haoxin/Downloads/test/predictor_build/kernels/conv-bn-relu6_test_YP4V8G",
+            "shapes": [
+                [
+                    1,
+                    1,
+                    4
+                ]
+            ],
+            "config": {
+                "HW": 1,
+                "CIN": 4,
+                "COUT": 96,
+                "KERNEL_SIZE": 1,
+                "STRIDES": 1
+            },
+            "converted_model": "/home/haoxin/Downloads/test/predictor_build/kernels/conv-bn-relu6_test_YP4V8G.tflite"
+        }
+    }
+}
